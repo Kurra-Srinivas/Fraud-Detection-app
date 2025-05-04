@@ -1,3 +1,4 @@
+![Fraud Detection App](https://github.com/Kurra-Srinivas/Fraud-Detection-app/blob/main/Fraud%20Detection%20App%20image.png)
 # Fraud Detection Project (Using ML and Deployed using streamlit)
 
 This project implements a machine learning-based fraud detection system for financial transactions. It includes a Jupyter notebook for exploratory data analysis (EDA) and model training, a Streamlit web application for interactive fraud predictions, and a dataset (https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset/data). The model leverages logistic regression with balanced class weights to address the imbalanced nature of fraud data, achieving high recall for detecting fraudulent transactions.
