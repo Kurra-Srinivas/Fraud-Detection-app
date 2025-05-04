@@ -1,4 +1,4 @@
-# Fraud Detection Project
+# Fraud Detection Project (Using ML and Deployed using streamlit)
 
 This project implements a machine learning-based fraud detection system for financial transactions. It includes a Jupyter notebook for exploratory data analysis (EDA) and model training, a Streamlit web application for interactive fraud predictions, and a dataset (`AIML Dataset.csv`). The model leverages logistic regression with balanced class weights to address the imbalanced nature of fraud data, achieving high recall for detecting fraudulent transactions.
 
