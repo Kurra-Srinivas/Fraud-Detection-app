@@ -99,21 +99,6 @@ The notebook contains the full workflow for data analysis, preprocessing, model 
    - Train and evaluate the logistic regression model.
    - Export the model as `fraud_detection_Pipeline.pkl`.
 
-### Running the Streamlit App
-The Streamlit app allows users to input transaction details and predict whether a transaction is fraudulent.
-
-1. Navigate to the `src/` folder:
-   ```bash
-   cd src
-   ```
-
-2. Run the Streamlit app:
-   ```bash
-   streamlit run app.py
-   ```
-
-3. Open the provided URL (e.g., `http://localhost:8501`) in your browser to interact with the app.
-
 ### Deployed Streamlit App
 The app is deployed on Streamlit Community Cloud. Access it at [Insert Streamlit App URL, e.g., https://your-app-name.streamlit.app]. (Update this section after deployment.)
 
@@ -135,24 +120,4 @@ The app is deployed on Streamlit Community Cloud. Access it at [Insert Streamlit
 - Low precision for fraud due to class imbalance.
 - Future improvements: Use SMOTE for oversampling, test ensemble models (e.g., Random Forest, XGBoost), or tune hyperparameters.
 
-## Contributing
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch:
-   ```bash
-   git checkout -b feature/your-feature-name
-   ```
-3. Commit your changes:
-   ```bash
-   git commit -m "Add your feature description"
-   ```
-4. Push to the branch:
-   ```bash
-   git push origin feature/your-feature-name
-   ```
-5. Open a pull request on GitHub.
 
-Please include clear descriptions of your changes and ensure code follows PEP 8 style guidelines.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
