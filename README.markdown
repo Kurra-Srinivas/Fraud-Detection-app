@@ -100,7 +100,7 @@ The notebook contains the full workflow for data analysis, preprocessing, model 
    - Export the model as `fraud_detection_Pipeline.pkl`.
 
 ### Deployed Streamlit App
-The app is deployed on Streamlit Community Cloud. Access it at [Insert Streamlit App URL, e.g., https://your-app-name.streamlit.app]. (Update this section after deployment.)
+The app is deployed on Streamlit Community Cloud. Access it at https://fraud-detection-app-taqhypmjn8savxewsib3yw.streamlit.app/. (Update this section after deployment.)
 
 ## Model Details
 - **Algorithm**: Logistic Regression with `class_weight='balanced'` to handle the imbalanced dataset (0.13% fraud cases).
