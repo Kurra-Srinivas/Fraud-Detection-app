@@ -56,7 +56,7 @@ fraud-detection-project/
 - `.gitignore`: Excludes unnecessary files (e.g., virtual environments).
 
 ### Deployed Streamlit App
-The app is deployed on Streamlit Community Cloud. Access it at https://fraud-detection-app-taqhypmjn8savxewsib3yw.streamlit.app/. (Update this section after deployment.)
+The app is deployed on Streamlit Community Cloud. Access it at https://fraud-detection-app-taqhypmjn8savxewsib3yw.streamlit.app/.
 
 ## Model Details
 - **Algorithm**: Logistic Regression with `class_weight='balanced'` to handle the imbalanced dataset (0.13% fraud cases).
