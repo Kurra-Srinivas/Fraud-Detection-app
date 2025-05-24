@@ -76,8 +76,9 @@ The app is deployed on Streamlit Community Cloud. Access it at https://fraud-det
 - Low precision for fraud due to class imbalance.
 - Future improvements: Use SMOTE for oversampling, test ensemble models (e.g., Random Forest, XGBoost), or tune hyperparameters.
 
-For any help,feel free to reach out to me :)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/kurra-srinivas-31727420b/)
-- **Instagram**: [Follow me](https://www.instagram.com/_srinivas.kurra/profilecard/?igsh=MWxuNnNpNXc2anhhMg==)
+### 📫 How to Reach Me
+- 📧 Email:(srinivaskurra886@gmail.com)
+- 📧 Linkedin:(https://www.linkedin.com/in/kurra-srinivas-31727420b/)
+- 📸 Instagram:(https://www.instagram.com/_srinivas.kurra/profilecard/?igsh=MWxuNnNpNXc2anhhMg==)
 
 
